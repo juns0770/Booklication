@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_1"
+        android:enabled="true"
+        android:icon="@drawable/bookshelf_up" />
+
+    <item
+        android:id="@+id/item_2"
+        android:enabled="true"
+        android:icon="@drawable/btn_docu_up" />
+
+    <item
+        android:id="@+id/item_3"
+        android:enabled="true"
+        android:icon="@drawable/btn_home_down" />
+
+    <item
+        android:id="@+id/item_4"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_input_get" />
+
+    <item
+        android:id="@+id/item_5"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_dialog_info" />
+
+</menu>
